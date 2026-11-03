@@ -1,0 +1,29 @@
+# Windows thumbnails & temp
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Backups & scratch
+*.bak
+*.orig.*
+*.tmp
